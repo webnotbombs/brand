@@ -1,15 +1,5 @@
 # Web Not Bombs: Brand Guidelines
 
-## Colors 
-- *Mustard Yellow*: HEX **#FFD355** / RGB **255, 211, 85**
-- *Solid Black*: HEX **#000000** / RGB **255, 255, 255**
-- *Alto Gray*: HEX **#D8D8D8** / RGB **216, 216, 216**   // *secondary color*
-
-## Typeface & fonts 
-- Headings: **Gobold Bold Italic** 
-- Subheadings: **Gobold Thin Italic**
-- Heading/Subheading Proportions: 13 / 9
-
 ## Logo & Variations
 
 ### Full version
@@ -19,6 +9,16 @@
 ### Full version monochrome
 
 ### Short version 
+
+## Colors 
+- *Mustard Yellow*: HEX **#FFD355** / RGB **255, 211, 85**
+- *Solid Black*: HEX **#000000** / RGB **255, 255, 255**
+- *Alto Gray*: HEX **#D8D8D8** / RGB **216, 216, 216**   // *secondary color*
+
+## Typeface & fonts 
+- Headings: **Gobold Bold Italic** 
+- Subheadings: **Gobold Thin Italic**
+- Heading/Subheading Proportions: 13 / 9
 
 ## Usage
 
