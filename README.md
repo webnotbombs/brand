@@ -12,7 +12,8 @@ TBD
 ![Full Version Monochrome](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-mono.png?raw=true "Web Not Bombs Logo Full Version Monochrome")
 
 ### Short version 
-![Full Version](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short.png?raw=true "Web Not Bombs Logo Short Version") ![Full Version](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-mono.png?raw=true "Web Not Bombs Logo Short Version Monochrome")
+<img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short.png?raw=true" width="150" /> &nbsp;
+<img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-mono.png?raw=true" width="150" />
 
 ## Colors 
 - *Mustard Yellow*: HEX **#FFD355** / RGB **255, 211, 85**
