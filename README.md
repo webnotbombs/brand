@@ -62,5 +62,9 @@ Download: **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbom
 - Words in the name should be separated with spaces: Web Not Bombs, not ~~WebNotBombs~~
 - Any part of the logo cannot be used separately
 
+## Credits
+
+- Aliaksandr Karpovich
+- Ilya [@Pukhalski](http://twitter.com/pukhalski)
 
 
