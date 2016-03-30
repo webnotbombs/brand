@@ -33,6 +33,14 @@ Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbom
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short.png?raw=true" width="150" /> &nbsp;
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-mono.png?raw=true" width="150" />
 
+### Short version for social profile userpics
+
+*Please, read [the instructions](#usage) before using it*.
+
+<img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-social.png?raw=true" width="150" />
+
+Download: **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-social.png?raw=true)** 
+
 ## Colors 
 
 - *Mustard Yellow*: HEX **#FFD355** / RGB **255, 211, 85**
