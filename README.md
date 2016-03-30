@@ -3,24 +3,34 @@
 ## Logo & Variations
 
 ### Full version
+
 ![Full Version](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo.png?raw=true "Web Not Bombs Logo Full Version")
 
+**Download**: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo.png?raw=true)** 
+
 ### Full version with a subheading
+
 TBD
 
 ### Full version monochrome
+
 ![Full Version Monochrome](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-mono.png?raw=true "Web Not Bombs Logo Full Version Monochrome")
 
+**Download**: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo-monochrome.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-monochrome.png?raw=true)** 
+
 ### Short version 
+
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short.png?raw=true" width="150" /> &nbsp;
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-mono.png?raw=true" width="150" />
 
 ## Colors 
+
 - *Mustard Yellow*: HEX **#FFD355** / RGB **255, 211, 85**
 - *Solid Black*: HEX **#000000** / RGB **255, 255, 255**
 - *Alto Gray*: HEX **#D8D8D8** / RGB **216, 216, 216**   // *secondary color*
 
 ## Typeface & fonts 
+
 - Headings: **Gobold Bold Italic** 
 - Subheadings: **Gobold Thin Italic**
 - Heading/Subheading Proportions: 13 / 9
