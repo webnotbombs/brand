@@ -35,10 +35,9 @@ Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbom
 
 ### Short version for social profile userpics
 
-*Please, read [the instructions](#usage) before using it*.
-
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-social.png?raw=true" width="150" />
 
+*Please, read [the instructions](#usage) before using it*.
 Download: **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-social.png?raw=true)** 
 
 ## Colors 
