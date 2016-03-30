@@ -10,7 +10,17 @@ Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbom
 
 ### Full version with a subheading
 
-TBD
+![Frontend](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-frontend-logo.png?raw=true "Web Not Bombs Logo Frontend")
+
+Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-frontend-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-frontend-logo.png?raw=true)** 
+
+![UX & Design](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-uxd-logo.png?raw=true "Web Not Bombs Logo UX & Design")
+
+Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-uxd-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-uxd-logo.png?raw=true)** 
+
+![Startups](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-frontend-logo.png?raw=true "Web Not Bombs Logo Startups")
+
+Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-startups-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-startups-logo.png?raw=true)** 
 
 ### Full version monochrome
 
