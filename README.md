@@ -6,7 +6,7 @@
 
 ![Full Version](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo.png?raw=true "Web Not Bombs Logo Full Version")
 
-**Download**: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo.png?raw=true)** 
+Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo.png?raw=true)** 
 
 ### Full version with a subheading
 
@@ -16,7 +16,7 @@ TBD
 
 ![Full Version Monochrome](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-mono.png?raw=true "Web Not Bombs Logo Full Version Monochrome")
 
-**Download**: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo-monochrome.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-monochrome.png?raw=true)** 
+Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo-monochrome.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-monochrome.png?raw=true)** 
 
 ### Short version 
 
