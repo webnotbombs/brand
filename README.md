@@ -59,6 +59,7 @@ Download: **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbom
 - Colors should match ones specified in the **Colors** section
 - Short version could be placed where a supportive additional text exists, e.g. Twitter account profile picture, Facebook profile picture
 - Use of any abbreviations is strictly prohibited, e.g. ~~wnb~~, ~~WNB~~
+- Words in the name should be separated with spaces: Web Not Bombs, not ~~WebNotBombs~~
 - Any part of the logo cannot be used separately
 
 
