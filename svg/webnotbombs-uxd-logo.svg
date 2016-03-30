@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1269px" height="351px" viewBox="0 0 1269 351" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>bw_header</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-artboard" transform="translate(-90.000000, -95.000000)">
+            <g id="bw_header" transform="translate(89.312500, 95.000000)">
+                <path d="M175.698806,350.751108 C272.348637,350.751108 350.698806,272.400939 350.698806,175.751108 C350.698806,79.1012769 272.348637,0.751108126 175.698806,0.751108126 C79.0489749,0.751108126 0.698806146,79.1012769 0.698806146,175.751108 C0.698806146,272.400939 79.0489749,350.751108 175.698806,350.751108 Z" id="grey_oval" fill="#FFD355"></path>
+                <g id="Group-6" transform="translate(175.698806, 175.829826) scale(-1, 1) rotate(-15.000000) translate(-175.698806, -175.829826) translate(125.698806, 25.829826)" fill="#000000">
+                    <path d="M49.7490107,25.4277578 L92.1986728,0.126973979 C92.6884374,-0.164934743 93.1250832,0.0641263783 93.1830824,0.633152334 L99.4907182,62.5168742 C99.5488441,63.0871431 99.2536489,63.8497029 98.8316643,64.2228753 L70.6573472,89.138189 C70.2371209,89.5098066 69.8932765,90.2721127 69.8932765,90.8373745 L69.8932765,97.1373068 C69.8932765,97.7001473 70.1327562,98.5519597 70.4281694,99.034475 L81.7735853,117.565592 C84.7369402,122.405809 87.6469482,130.89551 88.279431,136.537933 C88.279431,136.537933 101.095279,244.019778 93.0780654,273.073641 C85.4148615,300.844597 52.6294293,300.04273 49.7490107,299.917768 C46.868592,300.04273 14.0831598,300.844597 6.41995592,273.073641 C-1.59725766,244.019778 11.2185903,136.537933 11.2185903,136.537933 C11.8510732,130.89551 14.7610811,122.405809 17.724436,117.565592 L29.0698519,99.034475 C29.3652651,98.5519597 29.6047449,97.7001473 29.6047449,97.1373068 L29.6047449,90.8373745 C29.6047449,90.2721127 29.2609005,89.5098066 28.8406741,89.138189 L0.666357025,64.2228753 C0.244372415,63.8497029 -0.0508227267,63.0871431 0.00730320073,62.5168742 L6.31493898,0.633152334 C6.37293821,0.0641263783 6.80958399,-0.164934743 7.29934852,0.126973979 L49.7490107,25.4277578 Z" id="BOMBS-(Combined-Shape)"></path>
+                </g>
+                <text id="WEB-NOT-BOMBS" font-family="GoboldBold-Italic, Gobold Bold" font-size="130" font-style="italic" font-weight="bold" fill="#000000">
+                    <tspan x="376.367188" y="179.751108">WEB NOT</tspan>
+                    <tspan x="855.742188" y="179.751108" font-size="100"> </tspan>
+                    <tspan x="880.546875" y="179.751108">BOMBS</tspan>
+                </text>
+                <text id="UX-&amp;-DESIGN" fill="#000000" filter="url(#filter-1)" font-family="GoboldThin-Italic, Gobold Thin" font-size="90" font-style="italic" font-weight="normal">
+                    <tspan x="402.042002" y="303.751108">UX &amp; DESIGN</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
