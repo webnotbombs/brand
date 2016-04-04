@@ -22,6 +22,10 @@ Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbom
 
 Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-startups-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-startups-logo.png?raw=true)** 
 
+![Startups](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-morning-talks-logo.png?raw=true "Web Not Bombs Logo Startups")
+
+Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-morning-talks-logo.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-morning-talks-logo.png?raw=true)** 
+
 ### Full version monochrome
 
 ![Full Version Monochrome](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-mono.png?raw=true "Web Not Bombs Logo Full Version Monochrome")
