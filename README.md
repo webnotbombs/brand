@@ -32,16 +32,22 @@ Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbom
 
 Download: **[SVG](https://github.com/webnotbombs/brand/blob/master/svg/webnotbombs-logo-monochrome.svg?raw=true)** &middot; **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-monochrome.png?raw=true)** 
 
-### Short version 
+### Short version
 
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short.png?raw=true" width="150" /> &nbsp;
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-mono.png?raw=true" width="150" />
 
 ### Short version for social profile userpics
 
+Usually, you should use this logo version for all social profiles:
+
 <img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-social.png?raw=true" width="150" />
 
-*Please, read [the instructions](#usage) before using it*.
+However, if a social network supports only circle userpics, use this version. It looks better in this case:
+
+<img src="https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short.png?raw=true" width="150" />
+
+*Please, read [the instructions](#usage) before using the logo*.
 Download: **[PNG](https://github.com/webnotbombs/brand/blob/master/png/webnotbombs-logo-short-social.png?raw=true)** 
 
 ## Colors 
